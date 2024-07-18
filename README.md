@@ -11,14 +11,14 @@ A responsive and user-friendly Currency Converter application built with React a
 
 ## Demo
 
-You can view a live demo of the app: https://currencyconvertor-erarbazansari.netlify.app/
+You can view a live demo of the app: https://currencyconvertor-annant24012.netlify.app/
 
 ## Screenshots
 
 <div align="center">
-    <img src="./public/3.png">
     <img src="./public/1.png">
     <img src="./public/2.png">
+    <img src="./public/3.png">
 </div>
 
 ## Technologies Used
